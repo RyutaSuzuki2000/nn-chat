@@ -14,9 +14,3 @@ function passwordGenerator() {
 }
 
 console.log(passwordGenerator());
-/**
- * ユーザ名: パスワード
- * admin: OmNB9C3SbGXw
- * guest1: FAdMGuBoTQv3
- * guest2: l9gjChNn9dfe
- */
